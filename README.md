@@ -1,2 +1,2 @@
-# stockx-sneakers-prices
-Analysis of prices on sneakers on the resale market (data from StockX)
+# Determinants of Sneaker Prices on the Resale Market
+See what characteristics of sneakers affect thier price on StockX.com.
